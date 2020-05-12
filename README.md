@@ -1,5 +1,6 @@
 # c465 - Lego Blocks - Unity - C#
-Basically 3d Tetris using Lego blocks. 
+Project 1 is basically 3d Tetris using Lego blocks. 
+Project 2 is Minecraft using Lego blocks.
 
 ## Project 1
 Chances are you have played with Lego while growing up. Now you get the opportunity to develop a virtual version of your favorite toy Lego!
